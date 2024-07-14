@@ -3,3 +3,6 @@ Javascript challenge for practice
 
 Day 1 :
 Variables and Datatypes
+
+Day 2 :
+Javascript operation
