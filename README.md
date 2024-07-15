@@ -6,3 +6,6 @@ Variables and Datatypes
 
 Day 2 :
 Javascript operation
+
+Day 3 :
+Control Structure
