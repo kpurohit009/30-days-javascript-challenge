@@ -12,3 +12,6 @@ Control Structure
 
 Day 4 :
 Javascript loops
+
+Day 5 :
+Javascript Functions
