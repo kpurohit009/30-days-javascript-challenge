@@ -15,3 +15,6 @@ Javascript loops
 
 Day 5 :
 Javascript Functions
+
+Day 6 :
+Arrays and its methods
