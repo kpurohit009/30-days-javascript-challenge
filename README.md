@@ -18,3 +18,6 @@ Javascript Functions
 
 Day 6 :
 Arrays and its methods
+
+Day 7 :
+Objects
