@@ -21,3 +21,6 @@ Arrays and its methods
 
 Day 7 :
 Objects
+
+Day 8 :
+ES6+ Features
