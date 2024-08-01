@@ -45,3 +45,9 @@ Classes
 
 Day 15 :
 Closures
+
+Day 16 :
+Recursion
+
+Day 17 :
+Data Structure
