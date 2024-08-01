@@ -51,3 +51,6 @@ Recursion
 
 Day 17 :
 Data Structure
+
+Day 18 :
+Algorithms
