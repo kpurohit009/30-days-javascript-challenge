@@ -57,3 +57,6 @@ Algorithms
 
 Day 19 : 
 Regular Expression
+
+Day 20 :
+LocalStorage and SessionStorage
